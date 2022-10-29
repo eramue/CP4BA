@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="ML Scoreboard">
+  <name>ML-Scoreboard</name>
+  <uuid>6eafadec-ad44-4efc-a00e-0a6445e51f86</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#56439253-bbf3-4f5b-8d3c-af56354cbf82"/>
+  <targetRuleProject href="../../ML%20Scoreboard#9a3f4611-b3f5-4bce-b8d4-d1eac0763f66"/>
+  <tags key="ProviderType">
+    <value><![CDATA[OPS]]></value>
+  </tags>
+  <tags key="ProviderId">
+    <value><![CDATA[disconnectedProvider]]></value>
+  </tags>
+</com.ibm.rules.studio.model.decisionservice:Operation>
